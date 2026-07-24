@@ -32,11 +32,11 @@ Before writing any code, the project needs to be properly planned.
 Tasks:
 
 - [x] Define the project vision
-- [ ] Write the project requirements
+- [x] Write the project requirements
 - [ ] Design the software architecture
 - [ ] Create the database design
 - [ ] Design the REST API
-- [ ] Create user stories
+- [x] Create user stories
 - [ ] Create basic wireframes
 - [ ] Organize the GitHub Project board
 

@@ -49,7 +49,7 @@ This journal documents the progress made during the first week of BALTRA's devel
 
 # Day 2 – Product Vision & Planning
 
-**Date:** 2026-07-25
+**Date:** 2026-07-24
 
 ## Goals
 
@@ -82,3 +82,35 @@ This journal documents the progress made during the first week of BALTRA's devel
 - Write the project requirements.
 - Design the software architecture.
 - Create the database design.
+---
+
+# Day 3 – Project Requirements
+
+**Date:** 2026-07-25
+
+## Goals
+
+- Define the functional requirements.
+- Define the non-functional requirements.
+- Write the user stories.
+- Define the scope of version 1.0.
+
+## Completed
+
+- Created the requirements document.
+- Defined the functional requirements.
+- Defined the non-functional requirements.
+- Wrote the user stories.
+- Defined the features that are out of scope.
+
+## Lessons Learned
+
+- Functional requirements describe what the application must do.
+- Non-functional requirements describe how the application should behave.
+- User stories help describe the application from the user's point of view.
+
+## Next Steps
+
+- Design the software architecture.
+- Plan the database structure.
+- Design the REST API.
