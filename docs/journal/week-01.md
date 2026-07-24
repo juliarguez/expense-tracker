@@ -1,0 +1,84 @@
+# Week 1 - Project Setup & Planning
+
+This journal documents the progress made during the first week of BALTRA's development.
+
+---
+
+## Day 1 · Development Environment Setup
+
+**Date:** 2026-07-08
+
+### Goals
+
+- Set up the development environment.
+- Create the initial project structure.
+- Configure Git and GitHub.
+- Install PostgreSQL.
+- Create the first project documentation.
+
+### Completed
+
+- Verified Python, Git and Node.js installation.
+- Installed PostgreSQL 17.
+- Created the GitHub repository.
+- Initialized the local Git repository.
+- Created the project folder structure.
+- Added the first project documentation.
+- Performed the first commit.
+  
+### Decisions
+
+- Project name: **BALTRA**.
+- Meaning: **BALance + TRAck**.
+- Main goal: build a professional full-stack expense tracker that resembles a real SaaS product rather than a university assignment.
+
+### Lessons Learned
+
+- A well-prepared development environment prevents future issues.
+- Version control should be configured before writing any code.
+- Good project organization is as important as the implementation itself.
+
+### Next steps
+
+- Define product vision.
+- Gather requirements.
+- Design the system architecture.
+- Create the initial GitHub Project board.
+
+---
+
+# Day 2 – Product Vision & Planning
+
+**Date:** 2026-07-25
+
+## Goals
+
+- Define the vision of BALTRA.
+- Plan the development roadmap.
+- Establish the main phases of the project.
+- Define the scope of the first version.
+
+## Completed
+
+- Created the Project Vision document.
+- Created the Project Roadmap.
+- Defined the MVP features.
+- Planned the different development phases.
+
+## Decisions
+
+- The project will focus on delivering a complete and polished MVP before adding advanced features.
+- The application will follow a structured development process, similar to a real software project.
+- Future features will be planned separately to keep version 1.0 focused.
+
+## Lessons Learned
+
+- Planning the project before coding helps define clear objectives.
+- A roadmap makes it easier to organize the work and track progress.
+- Defining the MVP helps avoid adding unnecessary features too early.
+
+## Next Steps
+
+- Write the project requirements.
+- Design the software architecture.
+- Create the database design.
