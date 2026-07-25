@@ -114,3 +114,36 @@ This journal documents the progress made during the first week of BALTRA's devel
 - Design the software architecture.
 - Plan the database structure.
 - Design the REST API.
+
+---
+
+# Day 4 – Software Architecture
+
+**Date:** 2026-07-25
+
+## Objectives
+
+- Design the overall architecture of BALTRA.
+- Define the main components of the application.
+- Understand how the frontend, backend and database communicate.
+- Create the first architecture diagram.
+
+## Completed
+
+- Created the software architecture document.
+- Defined the responsibilities of the frontend, backend and database.
+- Described how the different components communicate.
+- Created the system architecture diagram.
+
+## Lessons Learned
+
+- A client-server architecture separates the frontend, backend and database into independent components.
+- The frontend communicates with the backend through a REST API.
+- The backend is responsible for processing requests and interacting with the database.
+- Designing the architecture before coding makes the project easier to develop and maintain.
+
+## Next Steps
+
+- Design the database.
+- Define the REST API.
+- Start the backend development with FastAPI.

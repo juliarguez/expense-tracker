@@ -33,10 +33,9 @@ Tasks:
 
 - [x] Define the project vision
 - [x] Write the project requirements
-- [ ] Design the software architecture
+- [x] Design the software architecture
 - [ ] Create the database design
 - [ ] Design the REST API
-- [x] Create user stories
 - [ ] Create basic wireframes
 - [ ] Organize the GitHub Project board
 
