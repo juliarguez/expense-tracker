@@ -121,7 +121,7 @@ This journal documents the progress made during the first week of BALTRA's devel
 
 **Date:** 2026-07-25
 
-## Objectives
+## Goals
 
 - Design the overall architecture of BALTRA.
 - Define the main components of the application.
@@ -147,3 +147,41 @@ This journal documents the progress made during the first week of BALTRA's devel
 - Design the database.
 - Define the REST API.
 - Start the backend development with FastAPI.
+
+---
+
+# Day 5 – Database Design
+
+**Date:** 2026-07-25
+
+## Goals
+
+- Design the database structure.
+- Identify the main entities and their relationships.
+- Create the Entity-Relationship Diagram (ERD).
+- Make design decisions for the first version of BALTRA.
+
+## Completed
+
+- Created the database design document.
+- Defined the User, Expense and Category entities.
+- Designed the relationships between the tables.
+- Created the ER diagram using draw.io.
+- Decided to use global categories for version 1.0.
+
+## Design Decisions
+
+- Categories will be shared by all users in the first version of the application.
+- The database follows a simple relational model to keep the MVP easy to develop and maintain.
+- Future versions may allow users to create their own custom categories.
+
+## Lessons Learned
+
+- A primary key uniquely identifies each record in a table.
+- A foreign key creates a relationship between two tables.
+- Planning the database before coding helps avoid future problems and makes the application easier to extend.
+
+## Next Steps
+
+- Design the REST API.
+- Start setting up the backend with FastAPI.
